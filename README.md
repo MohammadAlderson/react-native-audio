@@ -1,3 +1,6 @@
+## ATTENTION
+I forked this package from (https://github.com/jsierles/react-native-audio) 
+I have issue on targetSdk 31 with compile word in build.gradle so i decided to release this package with this fix
 
 Record audio in iOS or Android React Native apps.
 
