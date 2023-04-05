@@ -21,7 +21,15 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:MohammadAlderson/react-native-audio.git"
+    "url": "git+ssh://git@github.com/MohammadAlderson/react-native-audio.git"
   },
-  "nativePackage": true
+  "nativePackage": true,
+  "bugs": {
+    "url": "https://github.com/MohammadAlderson/react-native-audio/issues"
+  },
+  "homepage": "https://github.com/MohammadAlderson/react-native-audio#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC"
 }
